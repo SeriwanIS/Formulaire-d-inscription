@@ -9,8 +9,6 @@ Le projet est porté sur la création formulaire d'inscription en php
 - Google Drive
 - GitHub
 
-<img src="https://www.bonbache.fr/images_contenus/formulaire-inscription-php/formulaire-web-pour-inscriptions-en-base-de-donnees-mysql.png" width="1000"/></br>
-
-
+<img width="416" alt="Capture d’écran 2021-03-31 à 01 50 53" src="https://user-images.githubusercontent.com/71084572/113070900-eca7c400-91c3-11eb-95a5-40758530b4f2.png">
 
 
